@@ -1,6 +1,6 @@
 # Project: Decoder Ring
 
-> Your planning a surprise birthday party for one of your friends who _loves_ escape rooms and puzzles. What better way to practice your new coding skills then to build an application that will help you encode and decode all kinds of fun messages?
+> You're planning a surprise birthday party for one of your friends who _loves_ escape rooms and puzzles. What better way to practice your new coding skills than to build an application that will help you encode and decode all kinds of fun messages?
 
 ![Home view of Decoder Ring](./docs/home.png)
 
