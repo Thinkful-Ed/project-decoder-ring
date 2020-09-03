@@ -41,6 +41,15 @@ You are tasked with building functions for an application that will either encod
 
 All of the functions can be found inside of the `src/` directory. Each function and cipher is described below.
 
+Below is a checklist of what you need to accomplish.
+
+- [ ] Complete the `caesar()` function.
+- [ ] Write tests for the `caesar()` function.
+- [ ] Complete the `polybius()` function.
+- [ ] Write tests for the `polybius()` function.
+- [ ] Complete the `substitution()` function.
+- [ ] Write tests for the `substitution()` function.
+
 ### Caesar Shift
 
 ![Caesar shift](./docs/caesar.png)
