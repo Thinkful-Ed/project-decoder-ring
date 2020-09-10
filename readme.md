@@ -4,17 +4,15 @@
 
 ![Home view of Decoder Ring](./docs/home.png)
 
-This project is designed to test your ability to build tricky algorithms as well as write unit tests with Mocha & Chai. Before taking on this module, you should be comfortable with the following:
+This project is designed to test your ability to build tricky algorithms as well as write unit tests with Mocha & Chai. Before taking on this module, you should be comfortable with the learning objectives listed below. You will not need to make any edits to HTML or CSS for this project.
 
-- Installing packages via NPM.
-- Modifying the `package.json` file with new scripts.
-- Running tests from the command line.
-- Writing JavaScript functions.
-- Writing tests for specific functions.
-- Iterating through strings, objects, and arrays.
-- Debugging through reading errors and using the VSCode debugger.
+## Learning Objectives
 
-You will not need to make any edits to HTML or CSS for this project.
+This project will assess the following learning objectives, in addition to many others:
+
+- Use the Test Driven Development philosophy to determine good tests for a program before you write code.
+- Write a series of unit tests using Mocha & Chai.
+- Use different `expect()` methods to test your code.
 
 ## Project setup
 
